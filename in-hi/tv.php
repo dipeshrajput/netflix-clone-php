@@ -2,7 +2,7 @@
     <div class="tv__flex">
         <div class="tv__text">
             <h1 class="tv__title">अपनी टीवी पर मज़ा लें.</h1>
-            <h2 class="tv__desc">स्मार्ट टीवी, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray प्लेयर के साथ ही दूसरे डिवाइस पर भी देखें.</h2>
+            <h2 class="tv__desc">स्मार्ट टीवी, PlayStation, Xbox, Chromecast, Blu-ray प्लेयर के साथ ही दूसरे डिवाइस पर भी देखें.</h2>
         </div>
         <div class="tv__anim_container">
             <img alt="tv image" class="tv__img" src="/int220/imgs/tv.png">
