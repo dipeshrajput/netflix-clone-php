@@ -3,7 +3,7 @@
 </div>
 <div class="shadow"></div>
 <div class="container">
-    <h1 class="container__title">अनलिमिटेड फ़िल्में, टीवी शो और बहुत कुछ.</h1>
+    <h1 class="container__title">अनलिमिटेड  फ़िल्में, टीवी शो और बहुत कुछ.</h1>
     <h3>जहां चाहें देखें. जब चाहें कैंसल करें.</h3>
     <h4 class="label__hero_entry">देखने के लिए तैयार हैं? अपनी मेंबरशिप बनाने या रीस्टार्ट करने के लिए अपना ईमेल एड्रेस डालें.</h4>
     <form method="post" class="container__form" action="register.php">
